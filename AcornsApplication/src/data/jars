@@ -1,0 +1,12 @@
+LessonsFlashCards.jar;org.acorns.lesson.flashCardsV6.LessonsFlashCards
+LessonsPictures.jar;org.acorns.lesson.hearClickV4.LessonsHearClick
+LessonsHearClick.jar;org.acorns.lesson.fillBlanksV4.LessonsFillBlanks
+LessonsMovingPictures.jar;org.acorns.lesson.movingPicturesV6.LessonsMovingPictures
+LessonsMagnetGame.jar;org.acorns.lesson.magnetGameV7.LessonsMagnetGame
+LessonsMissingWord.jar;org.acorns.lesson.missingWordV9.LessonsMissingWord
+LessonsMultipleChoice.jar;org.acorns.lesson.multipleChoiceV6.LessonsMultipleChoice
+LessonsPictionary.jar;org.acorns.lesson.pictionaryV6.LessonsPictionary
+LessonsFillBlanks.jar;org.acorns.lesson.picturesV4.LessonsPictures
+LessonsQuestionsAnswers.jar;org.acorns.lesson.questionAnswersV7.LessonsQuestionsAnswers
+LessonsStoryBook.jar;org.acorns.lesson.storyBookV5.LessonsStoryBook
+LessonsTranslate.jar;org.acorns.lesson.translateV9.LessonsTranslate
